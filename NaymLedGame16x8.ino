@@ -1,17 +1,3 @@
-//Version 1.00 (2022.04.15)
-
-//This is firmware for NyamLedGame8x16 game console by Nanoslavic
-//You need matrix LED display with MAX7219 driver and ATmega328P
-
-//Watch video about this project: https://youtu.be/rcoSd0XPQBI
-//See video description for electronic parts details and schematic diagram.
-//I am doing other projects on my YouTube channel.
-
-//Some instructions:
-//Select board: Arduino Pro Mini
-//Select processor: ATmega328P 16MHz 5V
-//Connect Arduino board and press Upload button
-
 #include <Arduino.h>
 #include <util/delay.h>
 
